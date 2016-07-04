@@ -1,0 +1,9 @@
+
+If ddms won’t launch, add the platform-tools to your system PATH variable like this: 
+Right-click My computer –> Advanced –> Environment Variables –> select Path in System Variables box –> Edit –>
+append “;C:\Program Files\Android\android-sdk-windows\platform-tools” to the existing Path. 
+Please note the semicolon “;” preceding the path being appended.
+
+
+Copy adb.exe from platform-tools to tools folder.
+Also copy AdbWinApi.dll and AdbWinUsbApi.dll from platform-tools to tools folder.

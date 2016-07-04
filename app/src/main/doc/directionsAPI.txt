@@ -1,0 +1,10 @@
+
+
+https://maps.googleapis.com/maps/api/directions/json?origin=UL+Limerick&destination=Larne+Port+UK&sensor=false
+
+https://maps.googleapis.com/maps/api/directions/json?origin=UL+Limerick&destination=Dublin+Port&sensor=false
+
+https://maps.googleapis.com/maps/api/directions/json?origin=53.4689307,-7.8305699&destination=Dublin+Port&sensor=false
+
+https://maps.googleapis.com/maps/api/directions/json?origin=53.4689296,-7.8305701&destination=Larne+Port+UK&sensor=false
+

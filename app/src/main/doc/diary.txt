@@ -1,0 +1,23 @@
+
+Mon 22. 
+======
+
+Got Google Distance Matrix API example working from Java.
+Parsed the returned XML to get out the distance and duration/time. 
+
+
+Tues 23
+=======
+
+Got the REST server working for - ports/IE. returning XML
+Created table for crossings
+
+Wed 24
+======
+
+Inserted crossing data
+Wrote client code to parse the xml returned for ports
+
+next - get REST server working for crossings, 
+get client code to parse crossing data
+

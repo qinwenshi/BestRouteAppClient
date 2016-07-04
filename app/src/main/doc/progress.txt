@@ -1,0 +1,23 @@
+
+
+Java domain classes, Port, Crossing, Premises, RoadStage, Location, Route, Stage.
+
+Code to create instances of the above classes and link them together.
+
+Implemented a decision tree to find the optimal route between a premises in Ireland and England.
+
+Researched into a cloud platform for our REST server. choose Heroku as it's easy to build a Java REST service and deploy to Heroku. 
+Heroku uses PostGres for the database. Installed and started using PostGres.
+
+Designed database schema (Port and Crossing tables). Wrote the Data Access Object classes. PortDAO, CrossingDAO, random test code.
+Eventually these will run on the server side. (I've still to handle start and end times for Crossings).
+
+-----------
+Next
+
+Prototype Google Distance Matrix API client. Use Apache Http client library to send a Http request,
+Register and get API key,
+Use kxml library to parse xml. (XML pull parser on Android)
+
+
+Reimplement decision tree.

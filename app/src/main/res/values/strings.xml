@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BestRouteApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="event_values">Alternate Route Destinations</string>
+    <string name="desc">description</string>
+
+    <!-- Main Screen -->
+
+    <string name="menu">DERRY BROS Shipping Ltd</string>
+    <string name="restart">New User</string>
+    <string name="chooseDestination">Select Destination</string>
+    <string name="exit_app">Exit</string>
+    
+    <!-- Select Screen -->
+    <string name="select_destination">Intended destination</string>
+    <string name="destination_name">Barnet, London</string>
+    <string name="destination_code">UK</string>
+    <string name="metricChoice">Choose</string>
+    <string name="drive_Button">Less Driving</string>
+    <string name="sail_Button">Less Sailing</string>
+    <string name="time_Button">Elapsed Time</string>
+    <string name="create_button">Create Routes</string>
+    <string name="return_button">Return to Menu</string>
+
+    <!-- Alternate ferry routes -->
+    <string name="title_activity_alternate_route">Alternate Ferry Routes</string>
+
+    <!-- Lorry driver's possible routes -->
+
+    <string name="title_activity_list_of_routes">Possible Routes</string>
+    <string name="title_activity_show_best_route">ShowBestRouteActivity</string>
+    <string name="title_activity_show_route_on_map">ShowRouteOnMapActivity</string>
+    <string name="title_activity_destination">DestinationActivity</string>
+
+</resources>
